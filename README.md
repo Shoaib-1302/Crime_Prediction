@@ -125,16 +125,6 @@ notebooks/ML_INTERNSHIP.ipynb
 
 ---
 
-## 📚 Citation
-
-If you use this work, please cite our paper:
-
-> Shoaib, Chittesh K, Deepa S, Rashmi Siddalingappa, and Vinay M.  
-> "*An Integrated Approach to Crime Prediction Using Time Series and Spatial Analysis*."  
-> *Applied Science and Engineering Progress*, 2025.
-
----
-
 ## 🤝 Contributors
 
 - **Shoaib** – Time series forecasting, ensemble design  
