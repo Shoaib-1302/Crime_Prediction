@@ -3,7 +3,6 @@
 This repository contains the complete implementation of our research paper:
 
 📄 **"An Integrated Approach to Crime Prediction Using Time Series and Spatial Analysis"**  
-Published in *Applied Science and Engineering Progress*, 2025.
 
 ---
 
