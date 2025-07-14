@@ -1,6 +1,6 @@
 # 🔍 Crime Forecasting: Spatiotemporal Prediction Using Machine Learning
 
-This repository contains the complete implementation of our research paper:
+This repository contains the complete implementation of our project:
 
 📄 **"An Integrated Approach to Crime Prediction Using Time Series and Spatial Analysis"**  
 
@@ -15,7 +15,7 @@ Urban crime is both **spatial** and **temporal** in nature. Our project introduc
 - 🔁 **Stacked Ensemble Modeling** to improve forecast accuracy  
 - 📊 **Visualization Dashboards**: Heatmaps, forecasts, EDA  
 
-**Goal:** Predict daily crime counts and locate high-risk grid areas in Chicago using public crime data.
+**Objective:** Predict daily crime counts and locate high-risk grid areas in Chicago using public crime data.
 
 ---
 
