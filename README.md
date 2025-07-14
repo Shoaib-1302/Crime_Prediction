@@ -35,12 +35,6 @@ Urban crime is both **spatial** and **temporal** in nature. Our project introduc
 │   ├── top10_crimes.png
 │   └── forecast_comparison.png
 │
-├── models/
-│   └── saved_models/                 # Serialized Prophet, LightGBM, RF models
-│
-├── utils/
-│   └── preprocessing.py              # Feature engineering and cleaning
-│
 ├── README.md                         # Project summary and setup guide
 ├── requirements.txt                  # Python dependencies
 └── LICENSE
