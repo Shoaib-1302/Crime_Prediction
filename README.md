@@ -19,29 +19,6 @@ Urban crime is both **spatial** and **temporal** in nature. Our project introduc
 
 ---
 
-## 📂 Repository Structure
-
-```
-├── data/
-│   └── chicago_crime_data.csv         # Cleaned dataset (2021–2025)
-│
-├── notebooks/
-│   ├── ML_INTERNSHIP.ipynb           # Full training pipeline (time + spatial)
-│   └── EDA_Heatmaps.ipynb            # Exploratory Data Analysis and Heatmaps
-│
-├── figures/
-│   ├── stl_decomposition.png
-│   ├── crime_heatmaps.png
-│   ├── top10_crimes.png
-│   └── forecast_comparison.png
-│
-├── README.md                         # Project summary and setup guide
-├── requirements.txt                  # Python dependencies
-└── LICENSE
-```
-
----
-
 ## 📈 Methodology
 
 ### 🔧 Preprocessing
@@ -74,29 +51,6 @@ Urban crime is both **spatial** and **temporal** in nature. Our project introduc
 
 - Python 3.8+
 - Jupyter Notebook or Jupyter Lab
-
-### ⚙️ Installation
-
-```bash
-# Clone this repository
-git clone https://github.com/Shoaib-1302/Crime_Prediction.git
-cd Crime_Prediction
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-### ▶️ Running the Pipeline
-
-```bash
-# Open Jupyter Lab or Notebook
-jupyter lab
-```
-
-Then open and run:
-```
-notebooks/ML_INTERNSHIP.ipynb
-```
 
 ---
 
